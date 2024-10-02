@@ -95,7 +95,7 @@ The following image shows the original rainy image:
 ### After Detection
 The image below shows the detected objects after applying the object detection algorithm:
 
-![Detected Objects](https://github.com/Bhavana9051/Object-Detection-in-Rainy-Images-Project/blob/main/Object%20Detection1.png?raw=true)
+![Detected Objects](https://github.com/Bhavana9051/Object-Detection-in-Rainy-Images-Project/blob/main/Object%20Detection.png?raw=true)
 
 - Objects are detected based on their contours, and their orientation (vertical/horizontal) is classified.
 - The processed image is displayed with bounding boxes around detected objects.
