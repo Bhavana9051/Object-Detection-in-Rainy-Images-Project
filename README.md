@@ -86,6 +86,11 @@ else:
 - The final image with bounding boxes and object labels is displayed, and the labels are printed to the console.
 
 ## Results
+
+The following image shows the detected objects in the rainy image:
+
+![Detected Objects]()
+
 - Objects are detected based on their contours, and their orientation (vertical/horizontal) is classified.
 - The processed image is displayed with bounding boxes around detected objects.
 
