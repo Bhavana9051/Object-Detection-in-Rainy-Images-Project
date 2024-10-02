@@ -87,11 +87,14 @@ else:
 
 ## Results
 
-The following image shows the detected objects in the rainy image:
-original Image:
-![yellow_flower](https://github.com/Bhavana9051/Object-Detection-in-Rainy-Images-Project/blob/main/yellowflower_rainy.jpeg?raw=true)
+### Original Image
+The following image shows the original rainy image:
 
-After Detection:
+![Original Image](https://github.com/Bhavana9051/Object-Detection-in-Rainy-Images-Project/blob/main/yellowflower_rainy.jpeg?raw=true)
+
+### After Detection
+The image below shows the detected objects after applying the object detection algorithm:
+
 ![Detected Objects](https://github.com/Bhavana9051/Object-Detection-in-Rainy-Images-Project/blob/main/Object%20Detection1.png?raw=true)
 
 - Objects are detected based on their contours, and their orientation (vertical/horizontal) is classified.
